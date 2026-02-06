@@ -86,7 +86,7 @@ Model trained on real 3D tree data to predict branch rotation & thickness.
 <!-- Keep just two widgets to avoid clutter; modify username & theme as needed -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCLakshan&layout=compact&theme=blue-green" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MCLakshan&theme=blue-green" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MCLakshan&theme=blue-green" alt="GitHub Streak" />
 </p>
 
 ---
@@ -102,7 +102,7 @@ Email: **mlakshancharitha@gmail.com**
    - To change the hero image: update the <img> URL under "Hi"
    - To change badges/widgets:
        * Top languages: https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=blue-green
-       * Streak: https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=blue-green
+       * Streak: https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=blue-green
    - To add/remove tech icons: consider using https://skillicons.dev/ icons (but keep to ~8-12 main ones)
    - For "Featured projects": keep 3 strong projects (link repos), add small GIF or screenshot if you want visual attention.
    - For PhD version: expand "Selected references" and add a "Research interests" list + link to PDF CV.
