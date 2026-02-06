@@ -1,97 +1,111 @@
-<h1 align="center">Hi 👋, I'm Charitha Lakshan</h1>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<!--
+  README for: MCLakshan (Charitha Lakshan)
+  Purpose: Focused profile for Computer Graphics | Procedural Modeling | Game Dev | ML
+  How to use:
+   - Replace placeholders (PROJECT_LINKS, GIFs, email) with actual values.
+   - Keep the "Featured Projects" short and link to repositories.
+   - Edit "CURRENT_FOCUS" to reflect your work as it changes.
+-->
 
-<h2 align="center">Undergraduate at University of Colombo School of Computing</h2>
+# Hi 👋, I'm Charitha Lakshan
 
+### Computer Graphics • Procedural Modeling • Game Systems • ML for 3D
 
-- 👨‍💻 I’m a **Computer Science undergraduate** at the **University of Colombo School of Computing**
-- 👀 I’m interested in **Software Engineering**,**Game Development**, **Computer 
-Vision**,**AR**,**VR**,**Simulation**
-- 📫 How to reach me: **mlakshancharitha@gmail.com**
+<p align="center">
+  <!-- Hero GIF: replace with any GIF or image URL you prefer -->
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="coding gif"/>
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<h3 align="center">Languages and Tools</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=scala" height="40" alt="scala logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=octave" height="40" alt="octave logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-</div>
+## 🌱 About me
+- 🎓 4th-year **Computer Science** undergraduate — University of Colombo School of Computing  
+- 🔭 I research **procedural, environment-aware tree generation** and structural 3D modeling for virtual environments.  
+- 🧠 I build **game systems (PC)**, simulation tooling, and ML models for geometry — currently experimenting with hybrid ML + rule-based pipelines.  
+- 📈 My classification model on real 3D data currently sits around **77–78% accuracy** (working on robust evaluation metrics).  
+- ✉️ Reach me: **mlakshancharitha@gmail.com**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br>
-<div align="center">
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCLakshan&layout=compact&theme=blue-green" alt=MCLakshan />
+## 🎯 Current focus
+I’m concentrating on building systems that *grow* — procedural trees that are both visually pleasing and structurally plausible for games and simulations. I combine data-driven ML components (for local geometry prediction) with L-system / rule-based structure to keep generation fast and artist-friendly.
 
-<br>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MCLakshan&theme=blue_green" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MCLakshan&theme=blue_green" height="180em" />
-</div>
+---
 
+## 🛠️ Core tech (curated)
+> *These are the tools I use most often for my current work.*
 
+**Graphics & Game Engines**
+- Unity (C#) · Unreal Engine (C++) · Blender
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/MCLakshan">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MCLakshan&theme=blue_green" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MCLakshan&theme=blue_green" height="180em" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MCLakshan&theme=blue-green" alt="MCLakshan" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MCLakshan&theme=blue_green" height="180em"/>
-</div>
+**ML & Research**
+- Python · PyTorch · NumPy · Octave/R for prototyping
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+**Web / Tools / Data**
+- TypeScript / React (tools & small web demos) · Node.js · PostgreSQL · MongoDB · LaTeX
 
-<h2 align="center">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MCLakshan&theme=github-compact"/>
+**Environment**
+- Linux · Git · VS Code / JetBrains
+
+---
+
+## 🚀 Featured projects
+> *Short, focused project entries — replace the links and short descriptions with your actual repos.*
+
+### 🌲 Environment-Aware Tree Generator
+**Hybrid ML + procedural** pipeline that generates trees conditioned on environment constraints (sight-lines, obstacles).  
+**Tech:** C++, Python, Unity, PyTorch — **Repo:** `github.com/MCLakshan/tree-generator` *(replace with link)*
+
+### 🎮 Multiplayer Game Prototype — *Mini-Inspired*
+Top-down PC multiplayer prototype with physics and networking (solo-developed).  
+**Tech:** Unity (C#), Photon/Netcode — **Repo:** `github.com/MCLakshan/multi-prototype` *(replace with link)*
+
+### 🧩 3D Structure Classifier
+Model trained on real 3D tree data to predict branch rotation & thickness.  
+**Result:** Classification ~77–78% on test set (work in progress).  
+**Tech:** Python, PyTorch — **Repo:** `github.com/MCLakshan/tree-ml` *(replace with link)*
+
+> To add a new project: copy one of the blocks above, keep a 1–2 sentence summary and list the main tech.
+
+---
+
+## 📚 Selected references & datasets
+> Useful for my research notes / prospective PhD reading — update as needed.
+
+- Pirk et al., *Plastic Trees: Interactive Self-Adapting Botanical Tree Models* (2012)  
+- Tóth & Szénási, *Tree Growth Simulation Based on Ray-Traced Lights Modelling* (2020)  
+- Lee et al., *Latent L-Systems* (2023)  
+- Zhou et al., *TreeStructor* (2025)  
+- TreeNet3D Dataset — synthetic 3D trees (13k models)
+
+*(If you plan to list longer publications, keep them as small bib entries or link to a CV/Google Scholar.)*
+
+---
+
+## 📊 GitHub (minimal stats)
+<!-- Keep just two widgets to avoid clutter; modify username & theme as needed -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCLakshan&layout=compact&theme=blue-green" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MCLakshan&theme=blue-green" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🤝 Want to collaborate?
+If you're working on **procedural content, game prototypes, or ML for geometry**, ping me — I enjoy short collaborations and project exchanges.  
+Email: **mlakshancharitha@gmail.com**
+
+---
+
+<!-- =========================================================
+   Customization notes — edit these comments, not visible on render
+   - To change the hero image: update the <img> URL under "Hi"
+   - To change badges/widgets:
+       * Top languages: https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=blue-green
+       * Streak: https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=blue-green
+   - To add/remove tech icons: consider using https://skillicons.dev/ icons (but keep to ~8-12 main ones)
+   - For "Featured projects": keep 3 strong projects (link repos), add small GIF or screenshot if you want visual attention.
+   - For PhD version: expand "Selected references" and add a "Research interests" list + link to PDF CV.
+   - For industry version: expand "Featured projects" with outcomes (e.g., FPS, perf improvement %, players).
+========================================================= -->
 
