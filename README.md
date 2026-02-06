@@ -85,8 +85,8 @@ Model trained on real 3D tree data to predict branch rotation & thickness.
 ## 📊 GitHub (minimal stats)
 <!-- Keep just two widgets to avoid clutter; modify username & theme as needed -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCLakshan&layout=compact&theme=blue-green" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=MCLakshan&theme=blue-green" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCLakshan&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MCLakshan&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
