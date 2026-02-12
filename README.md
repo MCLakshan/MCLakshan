@@ -21,7 +21,6 @@ Working at the intersection of computer graphics, generative modeling, and real-
 
 **BSc (Hons) in Computer Science**  
 University of Colombo School of Computing  
-GPA: 3.49 / 4.00  
 
 Research direction: Hybrid procedural–machine learning approaches for environment-aware 3D structure generation.
 
