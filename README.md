@@ -2,7 +2,7 @@
 
 Computer Graphics · Procedural Modeling · Machine Learning for 3D · Game Development
 
-Final-year Computer Science undergraduate at the University of Colombo School of Computing (GPA: 3.49/4.00).  
+Final-year Computer Science undergraduate at the University of Colombo School of Computing.
 Working at the intersection of computer graphics, generative modeling, and real-time systems — with interest in both academic research (MSc/PhD) and advanced graphics-driven industry roles.
 
 <p>
