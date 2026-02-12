@@ -51,17 +51,17 @@ Research direction: Hybrid procedural–machine learning approaches for environm
 
 ## Technical Stack
 
-### Graphics & Engines
-![Unity](https://img.shields.io/badge/Unity-1f1f1f?style=for-the-badge&logo=unity&logoColor=FFFFFF)
-![Unreal Engine](https://img.shields.io/badge/Unreal-1f1f1f?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF)
-![Blender](https://img.shields.io/badge/Blender-1f1f1f?style=for-the-badge&logo=blender&logoColor=F5792A)
-![Godot](https://img.shields.io/badge/Godot-1f1f1f?style=for-the-badge&logo=godotengine&logoColor=478CBF)
-
 ### Programming
 ![C++](https://img.shields.io/badge/C++-1f1f1f?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![CSharp](https://img.shields.io/badge/C%23-1f1f1f?style=for-the-badge&logo=csharp&logoColor=239120)
 ![Python](https://img.shields.io/badge/Python-1f1f1f?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Scala](https://img.shields.io/badge/Scala-1f1f1f?style=for-the-badge&logo=scala&logoColor=DC322F)
+
+### Graphics & Engines
+![Unity](https://img.shields.io/badge/Unity-1f1f1f?style=for-the-badge&logo=unity&logoColor=FFFFFF)
+![Unreal Engine](https://img.shields.io/badge/Unreal-1f1f1f?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF)
+![Blender](https://img.shields.io/badge/Blender-1f1f1f?style=for-the-badge&logo=blender&logoColor=F5792A)
+![Godot](https://img.shields.io/badge/Godot-1f1f1f?style=for-the-badge&logo=godotengine&logoColor=478CBF)
 
 ### Machine Learning & Data
 ![PyTorch](https://img.shields.io/badge/PyTorch-1f1f1f?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
