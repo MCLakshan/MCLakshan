@@ -51,9 +51,9 @@ Research direction: Hybrid procedural–machine learning approaches for environm
 
 ## Technical Stack
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table>
 <tr>
-<td width="50%" valign="top" style="border:none;">
+<td width="50%" valign="top">
 
 ### Programming
 <p>
@@ -72,8 +72,7 @@ Research direction: Hybrid procedural–machine learning approaches for environm
 </p>
 
 </td>
-
-<td width="50%" valign="top" style="border:none;">
+<td width="50%" valign="top">
 
 ### Machine Learning & Data
 <p>
