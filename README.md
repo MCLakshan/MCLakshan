@@ -31,8 +31,7 @@ Research direction: Hybrid procedural–machine learning approaches for environm
 - Computer Graphics  
 - Procedural Content Generation  
 - Structural & Graph-Based Modeling  
-- Machine Learning for Geometry  
-- Environment-Aware Synthesis  
+- Machine Learning   
 - Real-Time Rendering Systems  
 
 ---
