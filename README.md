@@ -51,27 +51,47 @@ Research direction: Hybrid procedural–machine learning approaches for environm
 
 ## Technical Stack
 
-### Graphics & Engines
-![Unity](https://img.shields.io/badge/Unity-1f1f1f?style=for-the-badge&logo=unity&logoColor=FFFFFF)
-![Unreal Engine](https://img.shields.io/badge/Unreal-1f1f1f?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF)
-![Blender](https://img.shields.io/badge/Blender-1f1f1f?style=for-the-badge&logo=blender&logoColor=F5792A)
-![Godot](https://img.shields.io/badge/Godot-1f1f1f?style=for-the-badge&logo=godotengine&logoColor=478CBF)
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### Programming
-![C++](https://img.shields.io/badge/C++-1f1f1f?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![CSharp](https://img.shields.io/badge/C%23-1f1f1f?style=for-the-badge&logo=csharp&logoColor=239120)
-![Python](https://img.shields.io/badge/Python-1f1f1f?style=for-the-badge&logo=python&logoColor=3776AB)
-![Scala](https://img.shields.io/badge/Scala-1f1f1f?style=for-the-badge&logo=scala&logoColor=DC322F)
+<p>
+  <img src="https://img.shields.io/badge/C++-1f1f1f?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/C%23-1f1f1f?style=for-the-badge&logo=csharp&logoColor=239120" />
+  <img src="https://img.shields.io/badge/Python-1f1f1f?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Scala-1f1f1f?style=for-the-badge&logo=scala&logoColor=DC322F" />
+</p>
+
+### Graphics & Engines
+<p>
+  <img src="https://img.shields.io/badge/Unity-1f1f1f?style=for-the-badge&logo=unity&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Unreal-1f1f1f?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Blender-1f1f1f?style=for-the-badge&logo=blender&logoColor=F5792A" />
+  <img src="https://img.shields.io/badge/Godot-1f1f1f?style=for-the-badge&logo=godotengine&logoColor=478CBF" />
+</p>
+
+</td>
+<td width="50%" valign="top">
 
 ### Machine Learning & Data
-![PyTorch](https://img.shields.io/badge/PyTorch-1f1f1f?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![NumPy](https://img.shields.io/badge/NumPy-1f1f1f?style=for-the-badge&logo=numpy&logoColor=013243)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-1f1f1f?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-1f1f1f?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/NumPy-1f1f1f?style=for-the-badge&logo=numpy&logoColor=013243" />
+  <img src="https://img.shields.io/badge/ScikitLearn-1f1f1f?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+</p>
 
 ### Systems & Tools
-![Linux](https://img.shields.io/badge/Linux-1f1f1f?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-1f1f1f?style=for-the-badge&logo=git&logoColor=F05032)
-![LaTeX](https://img.shields.io/badge/LaTeX-1f1f1f?style=for-the-badge&logo=latex&logoColor=008080)
+<p>
+  <img src="https://img.shields.io/badge/Linux-1f1f1f?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Git-1f1f1f?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/LaTeX-1f1f1f?style=for-the-badge&logo=latex&logoColor=008080" />
+</p>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
