@@ -7,12 +7,13 @@ Working at the intersection of computer graphics, generative modeling, and real-
 
 <p>
   <a href="mailto:mlakshancharitha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=D14836&color=FFFFFF" />
+    <img src="https://img.shields.io/badge/Email-1f1f1f?style=for-the-badge&logo=gmail&logoColor=D14836" />
   </a>
   <a href="https://linkedin.com/in/YOUR_PROFILE">
-    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=FFFFFF" />
+    <img src="https://img.shields.io/badge/LinkedIn-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
 </p>
+
 
 ---
 
@@ -50,26 +51,27 @@ Research direction: Hybrid procedural–machine learning approaches for environm
 ## Technical Stack
 
 ### Graphics & Engines
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=000000&color=FFFFFF)
-![Unreal Engine](https://img.shields.io/badge/Unreal-FFFFFF?style=for-the-badge&logo=unrealengine&logoColor=313131&color=FFFFFF)
-![Blender](https://img.shields.io/badge/Blender-FFFFFF?style=for-the-badge&logo=blender&logoColor=F5792A&color=FFFFFF)
-![Godot](https://img.shields.io/badge/Godot-FFFFFF?style=for-the-badge&logo=godotengine&logoColor=478CBF&color=FFFFFF)
+![Unity](https://img.shields.io/badge/Unity-1f1f1f?style=for-the-badge&logo=unity&logoColor=FFFFFF)
+![Unreal Engine](https://img.shields.io/badge/Unreal-1f1f1f?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF)
+![Blender](https://img.shields.io/badge/Blender-1f1f1f?style=for-the-badge&logo=blender&logoColor=F5792A)
+![Godot](https://img.shields.io/badge/Godot-1f1f1f?style=for-the-badge&logo=godotengine&logoColor=478CBF)
 
 ### Programming
-![C++](https://img.shields.io/badge/C++-FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=00599C&color=FFFFFF)
-![C#](https://img.shields.io/badge/CSharp-FFFFFF?style=for-the-badge&logo=csharp&logoColor=239120&color=FFFFFF)
-![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB&color=FFFFFF)
-![Scala](https://img.shields.io/badge/Scala-FFFFFF?style=for-the-badge&logo=scala&logoColor=DC322F&color=FFFFFF)
+![C++](https://img.shields.io/badge/C++-1f1f1f?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![CSharp](https://img.shields.io/badge/CSharp-1f1f1f?style=for-the-badge&logo=csharp&logoColor=239120)
+![Python](https://img.shields.io/badge/Python-1f1f1f?style=for-the-badge&logo=python&logoColor=3776AB)
+![Scala](https://img.shields.io/badge/Scala-1f1f1f?style=for-the-badge&logo=scala&logoColor=DC322F)
 
 ### Machine Learning & Data
-![PyTorch](https://img.shields.io/badge/PyTorch-FFFFFF?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&color=FFFFFF)
-![NumPy](https://img.shields.io/badge/NumPy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=013243&color=FFFFFF)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-FFFFFF?style=for-the-badge&logo=scikitlearn&logoColor=F7931E&color=FFFFFF)
+![PyTorch](https://img.shields.io/badge/PyTorch-1f1f1f?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![NumPy](https://img.shields.io/badge/NumPy-1f1f1f?style=for-the-badge&logo=numpy&logoColor=013243)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-1f1f1f?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 
 ### Systems & Tools
-![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=FCC624&color=FFFFFF)
-![Git](https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032&color=FFFFFF)
-![LaTeX](https://img.shields.io/badge/LaTeX-FFFFFF?style=for-the-badge&logo=latex&logoColor=008080&color=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-1f1f1f?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-1f1f1f?style=for-the-badge&logo=git&logoColor=F05032)
+![LaTeX](https://img.shields.io/badge/LaTeX-1f1f1f?style=for-the-badge&logo=latex&logoColor=008080)
+
 
 ---
 
