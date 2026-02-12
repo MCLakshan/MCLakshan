@@ -1,8 +1,12 @@
 # Charitha Lakshan
 
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=4F8CC9&size=22&center=false&vCenter=true&width=650&lines=Computer+Graphics;Procedural+Modeling;Machine+Learning+for+3D;Real-Time+Rendering+Systems" />
+</p>
+
 Computer Graphics · Procedural Modeling · Machine Learning for 3D · Game Development
 
-Final-year Computer Science undergraduate at the University of Colombo School of Computing.
+Final-year Computer Science undergraduate at the University of Colombo School of Computing.  
 Working at the intersection of computer graphics, generative modeling, and real-time systems — with interest in both academic research (MSc/PhD) and advanced graphics-driven industry roles.
 
 <p>
@@ -13,7 +17,6 @@ Working at the intersection of computer graphics, generative modeling, and real-
     <img src="https://img.shields.io/badge/LinkedIn-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
 </p>
-
 
 ---
 
@@ -31,7 +34,7 @@ Research direction: Hybrid procedural–machine learning approaches for environm
 - Computer Graphics  
 - Procedural Content Generation  
 - Structural & Graph-Based Modeling  
-- Machine Learning   
+- Machine Learning  
 - Real-Time Rendering Systems  
 
 ---
@@ -56,7 +59,7 @@ Research direction: Hybrid procedural–machine learning approaches for environm
 
 ### Programming
 ![C++](https://img.shields.io/badge/C++-1f1f1f?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![CSharp](https://img.shields.io/badge/CSharp-1f1f1f?style=for-the-badge&logo=csharp&logoColor=239120)
+![CSharp](https://img.shields.io/badge/C%23-1f1f1f?style=for-the-badge&logo=csharp&logoColor=239120)
 ![Python](https://img.shields.io/badge/Python-1f1f1f?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Scala](https://img.shields.io/badge/Scala-1f1f1f?style=for-the-badge&logo=scala&logoColor=DC322F)
 
@@ -70,7 +73,6 @@ Research direction: Hybrid procedural–machine learning approaches for environm
 ![Git](https://img.shields.io/badge/Git-1f1f1f?style=for-the-badge&logo=git&logoColor=F05032)
 ![LaTeX](https://img.shields.io/badge/LaTeX-1f1f1f?style=for-the-badge&logo=latex&logoColor=008080)
 
-
 ---
 
 ## Experience Snapshot
@@ -82,3 +84,10 @@ Designed a two-stage hybrid pipeline: ML-based structural prediction followed by
 **Unity Game Developer Intern – Envision Studio Pvt Ltd (2024–2025)**  
 Worked on gameplay systems, structured mechanics, and production-oriented Unity workflows.
 
+---
+
+## Activity Overview
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MCLakshan&theme=github-dark&hide_border=true&area=true" />
+</p>
