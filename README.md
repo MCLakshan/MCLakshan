@@ -51,9 +51,9 @@ Research direction: Hybrid procedural–machine learning approaches for environm
 
 ## Technical Stack
 
-<div style="display: flex; gap: 40px; flex-wrap: wrap;">
-
-<div style="flex: 1; min-width: 300px;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="50%" valign="top" style="border:none;">
 
 ### Programming
 <p>
@@ -71,9 +71,9 @@ Research direction: Hybrid procedural–machine learning approaches for environm
   <img src="https://img.shields.io/badge/Godot-1f1f1f?style=for-the-badge&logo=godotengine&logoColor=478CBF" />
 </p>
 
-</div>
+</td>
 
-<div style="flex: 1; min-width: 300px;">
+<td width="50%" valign="top" style="border:none;">
 
 ### Machine Learning & Data
 <p>
@@ -89,9 +89,9 @@ Research direction: Hybrid procedural–machine learning approaches for environm
   <img src="https://img.shields.io/badge/LaTeX-1f1f1f?style=for-the-badge&logo=latex&logoColor=008080" />
 </p>
 
-</div>
-
-</div>
+</td>
+</tr>
+</table>
 
 
 ---
