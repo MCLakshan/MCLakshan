@@ -9,7 +9,7 @@ Working at the intersection of computer graphics, generative modeling, and real-
   <a href="mailto:mlakshancharitha@gmail.com">
     <img src="https://img.shields.io/badge/Email-1f1f1f?style=for-the-badge&logo=gmail&logoColor=D14836" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_PROFILE">
+  <a href="https://www.linkedin.com/in/charitha-lakshan-b03607264/">
     <img src="https://img.shields.io/badge/LinkedIn-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
 </p>
